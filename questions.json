@@ -76344,5 +76344,256 @@
       "spinal infection"
     ],
     "verified": false
+  },
+  {
+    "id": "vb-trauma-01",
+    "type": "viva",
+    "module": "trauma",
+    "subtopic": "Ankle fracture (Trauma viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 45-year-old woman has a painful, swollen ankle after twisting it on a kerb. Radiographs show a Weber B fibular fracture. How would you assess and manage her?",
+    "modelAnswer": "I'd take a focused history and examine the limb — the neurovascular status, the soft-tissue envelope, and for medial tenderness or bruising suggesting a deltoid or syndesmotic injury. In a Weber B fracture, at the level of the syndesmosis, stability is the key decision. I'd assess it clinically and radiologically, looking at the medial clear space on a mortise view and, if in doubt, gravity-stress or weight-bearing views. A stable, minimally displaced fracture with a congruent mortise can be treated non-operatively in a boot with early weight-bearing and interval radiographs. An unstable pattern — talar shift, a widened medial clear space or a bimalleolar-equivalent injury — needs open reduction and internal fixation to restore the mortise, assessing the syndesmosis intra-operatively.",
+    "followUps": [
+      "How do you assess syndesmotic stability intra-operatively?",
+      "What is the significance of the medial clear space?",
+      "How would management change in an elderly diabetic patient?",
+      "When might you choose a fibular nail over a plate?"
+    ],
+    "references": [
+      "BOAST — Ankle fracture"
+    ],
+    "tags": [
+      "ankle fracture",
+      "Weber",
+      "syndesmosis",
+      "mortise"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-trauma-02",
+    "type": "viva",
+    "module": "trauma",
+    "subtopic": "Compartment syndrome (Trauma viva)",
+    "difficulty": 4,
+    "competence": 3,
+    "stem": "A young man with a tibial shaft fracture develops increasing leg pain a few hours after admission. What is your concern and what would you do?",
+    "modelAnswer": "My immediate concern is acute compartment syndrome. The cardinal feature is pain out of proportion and pain on passive stretch of the compartment muscles; paraesthesia and, late, pulselessness and paralysis. It is a clinical diagnosis and a surgical emergency. I'd remove circumferential dressings and split the cast, elevate the limb to the level of the heart, ensure normotension and give analgesia, and reassess frequently. Compartment-pressure monitoring, using a delta pressure within 30 mmHg of the diastolic, helps in the obtunded or equivocal patient. Confirmed or strongly suspected compartment syndrome requires immediate open fasciotomy of all four compartments, with a planned second look and delayed closure.",
+    "followUps": [
+      "What is the delta pressure and how do you use it?",
+      "Why elevate only to heart level, not above?",
+      "What are the consequences of a missed compartment syndrome?",
+      "Describe how you would perform a lower-leg fasciotomy."
+    ],
+    "references": [
+      "BOAST — Compartment syndrome"
+    ],
+    "tags": [
+      "compartment syndrome",
+      "fasciotomy",
+      "tibia"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-trauma-03",
+    "type": "viva",
+    "module": "handWrist",
+    "subtopic": "Distal radius fracture (Trauma viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 60-year-old woman falls onto an outstretched hand and has a dorsally displaced distal radius fracture. Walk me through your management.",
+    "modelAnswer": "After assessing the neurovascular status — particularly the median nerve — and the soft tissues, I'd obtain orthogonal radiographs and assess radial height, radial inclination, volar tilt and articular congruity. Acute median-nerve symptoms or skin threatened by displacement warrant urgent reduction. Many fractures can be reduced and held in a cast if the reduction is acceptable and stable, using accepted radiographic thresholds to judge stability. Unstable or displaced intra-articular fractures, or those that redisplace, are treated operatively — most often with a volar locking plate — to restore alignment and allow early movement, individualised to the patient's demands and comorbidities.",
+    "followUps": [
+      "Which radiographic parameters make a distal radius fracture unstable?",
+      "How would you manage an acute carpal tunnel syndrome here?",
+      "What are the fixation options and their trade-offs?",
+      "How does management differ in a low-demand elderly patient?"
+    ],
+    "references": [
+      "BOAST — Distal radius fracture"
+    ],
+    "tags": [
+      "distal radius",
+      "Colles",
+      "volar plate"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-hip-01",
+    "type": "viva",
+    "module": "hip",
+    "subtopic": "Hip osteoarthritis (Adult & pathology viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 68-year-old man has three years of worsening groin pain and a limp; radiographs show severe hip osteoarthritis. How would you assess and manage him?",
+    "modelAnswer": "I'd take a history of his pain, night pain, function, previous treatment, comorbidities and expectations, then examine — gait, leg lengths, range of movement and the neurovascular status — and exclude referred pain from the spine or knee. Weight-bearing radiographs confirm the osteoarthritis. Management follows a ladder: education, weight loss, analgesia, physiotherapy and a walking aid. When non-operative measures fail and quality of life is significantly affected, total hip replacement is the definitive treatment, after an informed discussion of the benefits and the risks — infection, dislocation, leg-length inequality, venous thromboembolism and revision — and an implant choice appropriate to his age and demand.",
+    "followUps": [
+      "How do you counsel a patient about the risks of a hip replacement?",
+      "What influences your choice of bearing surface and fixation?",
+      "How would you investigate a painful hip replacement?",
+      "What is your approach to a suspected periprosthetic infection?"
+    ],
+    "references": [
+      "NICE NG157 — Joint replacement"
+    ],
+    "tags": [
+      "hip osteoarthritis",
+      "THR",
+      "arthroplasty"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-knee-01",
+    "type": "viva",
+    "module": "knee",
+    "subtopic": "Prosthetic joint infection (Adult & pathology viva)",
+    "difficulty": 4,
+    "competence": 3,
+    "stem": "A patient presents six weeks after a total knee replacement with a warm, swollen, painful knee and a discharging wound. What are you thinking, and what would you do?",
+    "modelAnswer": "My primary concern is a prosthetic joint infection. I'd resuscitate if the patient is septic, take a history and examine the wound and joint, and investigate with inflammatory markers, blood cultures if pyrexial, and — crucially — a joint aspirate for cell count, Gram stain and culture before antibiotics, applying recognised criteria for infection. I would not give empirical antibiotics until deep samples are taken unless the patient is septic. This is an acute infection with a well-fixed implant, so the usual strategy is urgent debridement, antibiotics and implant retention with exchange of the modular components, followed by prolonged targeted antibiotics guided by microbiology and the multidisciplinary team, reserving one- or two-stage revision for failure or chronic infection.",
+    "followUps": [
+      "What criteria define a prosthetic joint infection?",
+      "When is debridement-and-retention appropriate versus revision?",
+      "Why is it important not to give antibiotics before culture?",
+      "Which organisms are most commonly responsible?"
+    ],
+    "references": [
+      "BOA/BASK — PJI"
+    ],
+    "tags": [
+      "prosthetic joint infection",
+      "DAIR",
+      "revision"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-hip-02",
+    "type": "viva",
+    "module": "hip",
+    "subtopic": "Metastatic bone disease (Adult & pathology viva)",
+    "difficulty": 4,
+    "competence": 3,
+    "stem": "A 70-year-old woman with known breast cancer has increasing thigh pain and a lytic lesion in the proximal femur. How would you assess and manage her?",
+    "modelAnswer": "This is likely metastatic bone disease with an impending pathological fracture. I'd assess her pain, function and fracture risk and work her up with radiographs of the whole femur, bloods including calcium and a myeloma screen where relevant, and staging imaging, discussing her at the bone-metastasis multidisciplinary meeting. I'd score the fracture risk — for example with a Mirels score — and if the lesion is high-risk I'd recommend prophylactic stabilisation before it fractures, typically a long cephalomedullary nail protecting the whole bone, with a biopsy if the primary is uncertain. Adjuncts include radiotherapy, bone-targeted agents and correcting hypercalcaemia. The goals are pain relief, restoring function and allowing onward oncological treatment.",
+    "followUps": [
+      "How does the Mirels score guide you?",
+      "Why fix prophylactically rather than wait for a fracture?",
+      "When would you biopsy, and why before fixation?",
+      "What is the role of radiotherapy and bisphosphonates?"
+    ],
+    "references": [
+      "BOOS/BOA — Metastatic bone disease"
+    ],
+    "tags": [
+      "metastasis",
+      "impending fracture",
+      "Mirels"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-paeds-01",
+    "type": "viva",
+    "module": "paediatrics",
+    "subtopic": "DDH (Children's & hands viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A health visitor refers a 6-week-old girl with a 'clicky hip' and a family history of hip problems. How would you approach this?",
+    "modelAnswer": "I'm thinking about developmental dysplasia of the hip. I'd take the history — risk factors such as breech presentation, a positive family history and being a firstborn girl — and examine both hips with the Ortolani and Barlow manoeuvres, checking for limited abduction and thigh-crease or leg-length asymmetry. Under about six months the investigation of choice is ultrasound, because the femoral head is not yet ossified, assessing morphology and stability. Confirmed dysplasia or instability is treated with a Pavlik harness to hold the hip flexed and abducted, with close ultrasound monitoring. Failure of the harness or later presentation may need closed or open reduction and a spica, and I'd counsel about the risk of avascular necrosis.",
+    "followUps": [
+      "Why ultrasound rather than radiographs at this age?",
+      "How does a Pavlik harness work, and what are its complications?",
+      "Which risk factors prompt screening?",
+      "How does management change after walking age?"
+    ],
+    "references": [
+      "Miller's Review of Orthopaedics (concept)"
+    ],
+    "tags": [
+      "DDH",
+      "Pavlik",
+      "paediatric hip"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-hand-01",
+    "type": "viva",
+    "module": "handWrist",
+    "subtopic": "Carpal tunnel syndrome (Children's & hands viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 52-year-old woman wakes at night with numbness and tingling in the thumb, index and middle fingers. How would you assess and manage her?",
+    "modelAnswer": "This history is typical of carpal tunnel syndrome. I'd confirm the distribution in the median-nerve territory, ask about night symptoms, clumsiness and thenar wasting, and about secondary causes such as diabetes, hypothyroidism, pregnancy and inflammatory arthritis. I'd examine sensation, thenar bulk and power, and use provocation tests such as Tinel's and Phalen's. Nerve conduction studies confirm the diagnosis and grade severity where surgery or the diagnosis is uncertain. Mild cases are managed with night splints and activity modification, with a corticosteroid injection as an option; persistent symptoms, or objective motor involvement or wasting, are an indication for carpal tunnel decompression by division of the transverse carpal ligament.",
+    "followUps": [
+      "What are the indications for surgery?",
+      "Which structures are at risk during decompression?",
+      "How would you counsel about outcomes and recurrence?",
+      "What secondary causes would you screen for?"
+    ],
+    "references": [
+      "BSSH Guidelines"
+    ],
+    "tags": [
+      "carpal tunnel",
+      "median nerve",
+      "decompression"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-bsci-01",
+    "type": "viva",
+    "module": "basicScience",
+    "subtopic": "Fracture healing (Applied basic science viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "Tell me about how a fracture heals, and what factors can impair it.",
+    "modelAnswer": "Fractures heal by primary or secondary healing. Primary, direct healing occurs with absolute stability and compression — for example a lag screw and neutralisation plate — through direct Haversian remodelling without visible callus. Secondary healing occurs with relative stability — a cast, an intramedullary nail or a bridging plate — and passes through inflammation, soft (cartilaginous) callus, hard (woven-bone) callus and remodelling to lamellar bone, driven by a degree of interfragmentary strain. Healing depends on an adequate blood supply, stability and a healthy biological environment. It is impaired by patient factors such as smoking, diabetes, NSAIDs and malnutrition; local factors such as an open injury, infection, bone loss or poor vascularity; and mechanical factors — too much or too little stability, a gap, or distraction.",
+    "followUps": [
+      "What is the difference between absolute and relative stability?",
+      "How does strain influence the mode of healing?",
+      "How does smoking impair fracture healing?",
+      "What is the reamer–irrigator–aspirator used for?"
+    ],
+    "references": [
+      "Miller's Review of Orthopaedics (concept)"
+    ],
+    "tags": [
+      "fracture healing",
+      "callus",
+      "strain"
+    ],
+    "verified": false
+  },
+  {
+    "id": "vb-bsci-02",
+    "type": "viva",
+    "module": "basicScience",
+    "subtopic": "Nerve injury (Applied basic science viva)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "How do you classify nerve injuries, and how does the classification guide prognosis?",
+    "modelAnswer": "The two classifications are Seddon's and Sunderland's. Seddon described three types: neurapraxia, a conduction block with an intact axon that recovers fully; axonotmesis, axonal disruption with an intact endoneurium that recovers by axonal regrowth at roughly a millimetre a day; and neurotmesis, complete disruption that will not recover without surgery. Sunderland refined this into five degrees according to which layers — axon, endoneurium, perineurium and epineurium — are disrupted, the higher grades carrying a worse prognosis and often needing repair or grafting. Clinically I'd assess motor, sensory and autonomic function, follow an advancing Tinel's sign and use serial nerve conduction studies, reserving exploration for a sharp laceration, no recovery by the expected time, or a functionally critical nerve.",
+    "followUps": [
+      "What is the approximate rate of axonal regeneration?",
+      "How does an advancing Tinel's sign help you monitor recovery?",
+      "When would you explore a nerve rather than observe it?",
+      "How do the Sunderland grades relate to prognosis?"
+    ],
+    "references": [
+      "Miller's Review of Orthopaedics (concept)"
+    ],
+    "tags": [
+      "nerve injury",
+      "Seddon",
+      "Sunderland"
+    ],
+    "verified": false
   }
 ]
