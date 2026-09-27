@@ -76595,5 +76595,1355 @@
       "Sunderland"
     ],
     "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "DDH — screening & diagnosis",
+    "difficulty": 2,
+    "competence": 3,
+    "stem": "A term neonate born by breech presentation is reviewed on the postnatal ward. On examination the Ortolani and Barlow tests are equivocal and both hips feel clinically stable. Following UK newborn screening pathways, what is the most appropriate next step?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Immediate application of a Pavlik harness"
+      },
+      {
+        "label": "B",
+        "text": "Ultrasound of both hips at around 6 weeks of age"
+      },
+      {
+        "label": "C",
+        "text": "Plain anteroposterior radiograph of the pelvis now"
+      },
+      {
+        "label": "D",
+        "text": "Reassurance and discharge with no further follow-up"
+      },
+      {
+        "label": "E",
+        "text": "MRI of both hips under general anaesthetic"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Breech presentation is a recognised risk factor that triggers selective ultrasound hip screening at around 6 weeks under UK newborn screening, even when the clinical examination is normal or equivocal. A plain radiograph is unreliable before the femoral head ossifies at roughly 4-6 months, so it is not useful in a neonate. A Pavlik harness would be premature before a diagnosis is confirmed, and discharge without imaging would miss a treatable at-risk hip.",
+    "learningPoint": "Breech babies need a 6-week hip ultrasound regardless of examination findings, as X-rays are unreliable before femoral head ossification.",
+    "references": [
+      "NHS Newborn and Infant Physical Examination (NIPE) programme",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "paediatrics",
+      "hip",
+      "ddh",
+      "screening"
+    ],
+    "id": "g2609-paeds-01",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Perthes disease — prognosis",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A boy presents with a limp and reduced hip abduction, and radiographs confirm Legg-Calve-Perthes disease with fragmentation of the femoral head. When counselling the family, which single factor is most strongly associated with a poor long-term outcome?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Male sex"
+      },
+      {
+        "label": "B",
+        "text": "Older age at disease onset"
+      },
+      {
+        "label": "C",
+        "text": "Bilateral hip involvement"
+      },
+      {
+        "label": "D",
+        "text": "Onset before the age of 6 years"
+      },
+      {
+        "label": "E",
+        "text": "A short history of symptoms before presentation"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Older age at onset (particularly over 8 years) is the strongest predictor of a poor outcome, because there is less time and remodelling potential remaining before skeletal maturity. Younger onset (under 6 years) is associated with a good prognosis, so it is a favourable rather than adverse factor. Although boys are affected more often, sex is not prognostic; the degree of lateral pillar (Herring) collapse is the other major predictor alongside age.",
+    "learningPoint": "In Perthes disease, older age at onset and greater lateral pillar collapse are the dominant predictors of a poor outcome.",
+    "references": [
+      "Tachdjian's Pediatric Orthopaedics",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "hip",
+      "perthes",
+      "prognosis"
+    ],
+    "id": "g2609-paeds-02",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "SUFE — management",
+    "difficulty": 2,
+    "competence": 3,
+    "stem": "A 13-year-old boy with a high BMI presents with a 6-week history of left thigh and knee pain and a limp. On examination the left hip lies in external rotation and internal rotation is limited; he is able to weight-bear. Radiographs confirm a slipped upper femoral epiphysis. What is the most appropriate definitive management?",
+    "options": [
+      {
+        "label": "A",
+        "text": "In-situ fixation with a single cannulated screw"
+      },
+      {
+        "label": "B",
+        "text": "Closed reduction and application of a hip spica cast"
+      },
+      {
+        "label": "C",
+        "text": "Skin traction and a period of bed rest"
+      },
+      {
+        "label": "D",
+        "text": "Immediate open reduction and femoral neck osteotomy"
+      },
+      {
+        "label": "E",
+        "text": "Non-weight-bearing mobilisation with crutches and review in 6 weeks"
+      }
+    ],
+    "answer": "A",
+    "explanation": "In-situ fixation with a single cannulated screw is the standard treatment for a stable slip, stabilising the physis and preventing further slippage. Forced or closed reduction is avoided because it markedly increases the risk of avascular necrosis. Traction, casting and simply offloading the limb do not stabilise the physis, so the slip can progress.",
+    "learningPoint": "Stable SUFE is treated by in-situ pinning; forced reduction is avoided because it greatly raises the risk of avascular necrosis.",
+    "references": [
+      "Tachdjian's Pediatric Orthopaedics",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "hip",
+      "sufe",
+      "physis"
+    ],
+    "id": "g2609-paeds-03",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "CTEV — Ponseti method",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A newborn has bilateral idiopathic congenital talipes equinovarus and Ponseti casting is commenced. After the cavus, adductus and varus components have been corrected with serial casts, a residual equinus deformity persists. What is the most appropriate next step?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Percutaneous tendo-Achilles tenotomy"
+      },
+      {
+        "label": "B",
+        "text": "Formal posteromedial soft-tissue release"
+      },
+      {
+        "label": "C",
+        "text": "Tibialis anterior tendon transfer"
+      },
+      {
+        "label": "D",
+        "text": "Continued weekly casting forcing dorsiflexion alone"
+      },
+      {
+        "label": "E",
+        "text": "Foot abduction bracing without any further intervention"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The majority of clubfeet treated by the Ponseti method require a percutaneous tendo-Achilles tenotomy to correct the residual equinus once the other components are corrected. Simply forcing dorsiflexion against a tight tendo-Achilles risks producing a rocker-bottom deformity. Extensive posteromedial release is deliberately avoided in the Ponseti method because it leads to stiffness and scarring, and tibialis anterior transfer is reserved for later dynamic supination relapse in older children.",
+    "learningPoint": "Most Ponseti-treated clubfeet need a percutaneous tendo-Achilles tenotomy for residual equinus; forcing dorsiflexion instead risks a rocker-bottom foot.",
+    "references": [
+      "Ponseti Method (Global HELP guide)",
+      "Tachdjian's Pediatric Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "foot",
+      "clubfoot",
+      "ponseti"
+    ],
+    "id": "g2609-paeds-04",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Paediatric supracondylar fracture — nerve injury",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 6-year-old sustains a displaced extension-type (Gartland III) supracondylar humeral fracture after a fall. On examination the child cannot flex the interphalangeal joint of the thumb or the distal interphalangeal joint of the index finger, and cannot make an 'OK' sign, but sensation across the hand is intact. Which nerve is most likely injured?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anterior interosseous nerve"
+      },
+      {
+        "label": "B",
+        "text": "Posterior interosseous nerve"
+      },
+      {
+        "label": "C",
+        "text": "Ulnar nerve"
+      },
+      {
+        "label": "D",
+        "text": "Radial nerve proper"
+      },
+      {
+        "label": "E",
+        "text": "Recurrent motor branch of the median nerve"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The anterior interosseous nerve is a purely motor branch of the median nerve supplying flexor pollicis longus and the flexor digitorum profundus to the index finger, so its injury causes an inability to make the 'OK' sign with preserved sensation. This is the most commonly injured nerve in extension-type supracondylar fractures. The posterior interosseous nerve would impair finger and thumb extension, while ulnar injury affects the intrinsic muscles and gives sensory loss.",
+    "learningPoint": "An intact-sensation inability to make the 'OK' sign after a supracondylar fracture indicates an anterior interosseous nerve palsy.",
+    "references": [
+      "Rockwood and Wilkins' Fractures in Children",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "elbow",
+      "supracondylar",
+      "nerve"
+    ],
+    "id": "g2609-paeds-05",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Cerebral palsy hip surveillance",
+    "difficulty": 4,
+    "competence": 3,
+    "stem": "A 4-year-old child with spastic quadriplegic cerebral palsy (GMFCS level V) is enrolled in a hip surveillance programme. Which radiographic measurement on the anteroposterior pelvis is used to monitor for progressive hip displacement?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reimers migration percentage"
+      },
+      {
+        "label": "B",
+        "text": "Tonnis angle of the acetabular roof"
+      },
+      {
+        "label": "C",
+        "text": "Centre-edge angle of Wiberg"
+      },
+      {
+        "label": "D",
+        "text": "Sharp's acetabular angle"
+      },
+      {
+        "label": "E",
+        "text": "Alpha angle of the femoral head-neck junction"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The Reimers migration percentage quantifies the proportion of the femoral head lying lateral to Perkin's line and is the standard surveillance measure in cerebral palsy, with values above about 30% considered abnormal and 100% representing dislocation. The Tonnis angle, Wiberg centre-edge angle and Sharp's angle are primarily used to assess acetabular development in developmental dysplasia. The alpha angle is used to characterise a cam lesion in femoroacetabular impingement.",
+    "learningPoint": "Reimers migration percentage is the key metric in cerebral palsy hip surveillance; over 30% is abnormal and warrants closer monitoring.",
+    "references": [
+      "Tachdjian's Pediatric Orthopaedics",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "hip",
+      "cerebral-palsy",
+      "surveillance"
+    ],
+    "id": "g2609-paeds-06",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Septic arthritis vs transient synovitis (Kocher)",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 5-year-old presents with an acutely irritable hip and refuses to weight-bear. The temperature is 39 degrees Celsius and inflammatory markers are raised. When applying the Kocher criteria to estimate the probability of septic arthritis of the hip, which of the following is one of the four original predictive variables?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inability to weight-bear on the affected side"
+      },
+      {
+        "label": "B",
+        "text": "C-reactive protein greater than 20 mg/L"
+      },
+      {
+        "label": "C",
+        "text": "A joint effusion demonstrated on ultrasound"
+      },
+      {
+        "label": "D",
+        "text": "Age under 4 years"
+      },
+      {
+        "label": "E",
+        "text": "Positive blood cultures"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The four original Kocher criteria are non-weight-bearing, temperature above 38.5 degrees Celsius, an erythrocyte sedimentation rate above 40 mm/hr, and a white cell count above 12,000. A raised C-reactive protein was added later as an additional independent predictor and is not one of the original four. An ultrasound effusion, young age and blood culture results are not part of the Kocher prediction algorithm.",
+    "learningPoint": "The four Kocher criteria are non-weight-bearing, fever above 38.5C, ESR above 40 and WCC above 12,000; CRP was a later addition.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Tachdjian's Pediatric Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "hip",
+      "septic-arthritis",
+      "kocher"
+    ],
+    "id": "g2609-paeds-07",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Acute haematogenous osteomyelitis",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A previously well 8-year-old presents with a 3-day history of fever and severe pain in the distal thigh, with marked reluctance to move the knee, and acute haematogenous osteomyelitis is suspected. Which factor best explains why the metaphysis is the most common initial site of infection in children?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sluggish blood flow in the metaphyseal capillary loops favours bacterial seeding"
+      },
+      {
+        "label": "B",
+        "text": "The physis has rich lymphatic drainage that traps circulating bacteria"
+      },
+      {
+        "label": "C",
+        "text": "The periosteum is firmly adherent at the metaphysis and traps organisms"
+      },
+      {
+        "label": "D",
+        "text": "The metaphysis is avascular and therefore cannot clear pathogens"
+      },
+      {
+        "label": "E",
+        "text": "Adjacent articular cartilage permits direct bacterial entry into bone"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The metaphyseal capillary loops have turbulent, sluggish flow and a relative deficiency of phagocytic lining cells, which favours bacterial deposition and proliferation. The metaphysis is in fact highly vascular rather than avascular. In infants under about 18 months, transphyseal vessels can additionally allow spread into the epiphysis and adjacent joint; Staphylococcus aureus remains the commonest causative organism.",
+    "learningPoint": "Childhood osteomyelitis starts in the metaphysis because sluggish capillary-loop blood flow there favours bacterial seeding.",
+    "references": [
+      "Apley's System of Orthopaedics and Fractures",
+      "Tachdjian's Pediatric Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "infection",
+      "osteomyelitis",
+      "metaphysis"
+    ],
+    "id": "g2609-paeds-08",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Physeal (Salter-Harris) injuries",
+    "difficulty": 2,
+    "competence": 2,
+    "stem": "A 12-year-old sustains an ankle injury. Radiographs show a fracture line that passes through the physis and then exits through the metaphysis, leaving a triangular metaphyseal fragment (the Thurston-Holland fragment). How is this physeal injury best classified?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Salter-Harris type II"
+      },
+      {
+        "label": "B",
+        "text": "Salter-Harris type I"
+      },
+      {
+        "label": "C",
+        "text": "Salter-Harris type III"
+      },
+      {
+        "label": "D",
+        "text": "Salter-Harris type IV"
+      },
+      {
+        "label": "E",
+        "text": "Salter-Harris type V"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A fracture through the physis that exits through the metaphysis, producing the triangular Thurston-Holland metaphyseal fragment, is a Salter-Harris type II injury, which is the most common pattern overall. Type I passes through the physis alone; type III passes through the physis and into the epiphysis (intra-articular); type IV crosses metaphysis, physis and epiphysis; and type V is a crush injury of the physis.",
+    "learningPoint": "A Thurston-Holland metaphyseal fragment defines the Salter-Harris type II injury, the commonest physeal fracture pattern.",
+    "references": [
+      "Rockwood and Wilkins' Fractures in Children",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "paediatrics",
+      "physis",
+      "salter-harris",
+      "fracture"
+    ],
+    "id": "g2609-paeds-09",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "paediatrics",
+    "subtopic": "Paediatric forearm fractures — Monteggia",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 6-year-old falls and sustains an isolated, angulated fracture of the ulnar shaft. When reviewing the radiographs, which additional injury must be specifically excluded to avoid a missed and disabling diagnosis?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dislocation of the radial head"
+      },
+      {
+        "label": "B",
+        "text": "Separation of the distal radial physis"
+      },
+      {
+        "label": "C",
+        "text": "Fracture of the scaphoid"
+      },
+      {
+        "label": "D",
+        "text": "Disruption of the distal radioulnar joint"
+      },
+      {
+        "label": "E",
+        "text": "Fracture of the olecranon"
+      }
+    ],
+    "answer": "A",
+    "explanation": "An ulnar shaft fracture combined with a radial head dislocation is a Monteggia injury, and the dislocation is easily missed if the elbow is not adequately imaged. On every view the radiocapitellar line should pass through the centre of the capitellum, and a missed dislocation leads to a poor functional outcome. A radial fracture with distal radioulnar joint disruption is the reciprocal Galeazzi injury, which is the main distractor here.",
+    "learningPoint": "An isolated ulnar shaft fracture is a Monteggia lesion until a radial head dislocation is excluded on the radiocapitellar line.",
+    "references": [
+      "Rockwood and Wilkins' Fractures in Children",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "paediatrics",
+      "forearm",
+      "monteggia",
+      "fracture"
+    ],
+    "id": "g2609-paeds-10",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Distal humerus fractures",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A fit 34-year-old sustains a comminuted, complete intra-articular fracture of the distal humerus (AO type C) in a high-energy fall. Which surgical strategy offers the best functional outcome?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rigid dual-column plate fixation restoring the articular surface and allowing early motion"
+      },
+      {
+        "label": "B",
+        "text": "Prolonged immobilisation in an above-elbow plaster for 6 weeks"
+      },
+      {
+        "label": "C",
+        "text": "Single lateral column plate fixation alone"
+      },
+      {
+        "label": "D",
+        "text": "Primary total elbow arthroplasty regardless of age"
+      },
+      {
+        "label": "E",
+        "text": "Definitive treatment with a hinged external fixator alone"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A complete intra-articular distal humeral fracture in a young patient is best treated by anatomical reduction with rigid dual-column (bicolumnar) plate fixation, which is stable enough to permit early mobilisation and reduce stiffness. Single-column fixation is biomechanically insufficient for a type C fracture and risks fixation failure. Prolonged plaster immobilisation causes a stiff elbow, and total elbow arthroplasty is reserved for elderly patients with unreconstructable low fractures rather than young adults.",
+    "learningPoint": "Type C distal humeral fractures need dual-column plating stable enough for early motion; the stiff elbow is the main enemy.",
+    "references": [
+      "Rockwood and Green's Fractures in Adults",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "elbow",
+      "trauma",
+      "distal-humerus",
+      "fixation"
+    ],
+    "id": "g2609-elbow-01",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Radial head fractures (Mason)",
+    "difficulty": 3,
+    "competence": 4,
+    "stem": "A 40-year-old presents with an isolated radial head fracture involving about one third of the head and displaced by 3 mm. On examination there is a clear mechanical block to forearm rotation. Applying the Mason classification and modern management principles, what is the most appropriate treatment?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Open reduction and internal fixation of the radial head fragment"
+      },
+      {
+        "label": "B",
+        "text": "Radial head excision without replacement"
+      },
+      {
+        "label": "C",
+        "text": "Non-operative treatment with a sling and early mobilisation"
+      },
+      {
+        "label": "D",
+        "text": "Radial head replacement with a metallic prosthesis"
+      },
+      {
+        "label": "E",
+        "text": "Immobilisation in an above-elbow cast for 6 weeks"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A displaced partial (Mason type II) radial head fracture with a mechanical block to rotation should be fixed if the fragment is reconstructable, restoring the articular surface and removing the block. Non-operative treatment is appropriate for undisplaced fractures with no block to movement. Excision without replacement risks proximal radial migration and valgus instability, and replacement is reserved for unreconstructable comminuted (Mason type III) heads.",
+    "learningPoint": "A reconstructable Mason II radial head fracture with a mechanical block to rotation is an indication for ORIF, not conservative care.",
+    "references": [
+      "Rockwood and Green's Fractures in Adults",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "elbow",
+      "trauma",
+      "radial-head",
+      "mason"
+    ],
+    "id": "g2609-elbow-02",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Terrible triad",
+    "difficulty": 2,
+    "competence": 2,
+    "stem": "A 45-year-old sustains a high-energy elbow injury described by the trauma team as a 'terrible triad'. Which combination of injuries defines this pattern?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Elbow dislocation with radial head and coronoid process fractures"
+      },
+      {
+        "label": "B",
+        "text": "Elbow dislocation with olecranon and radial head fractures"
+      },
+      {
+        "label": "C",
+        "text": "Radial head fracture, coronoid fracture and medial epicondyle avulsion"
+      },
+      {
+        "label": "D",
+        "text": "Elbow dislocation with coronoid and distal humerus fractures"
+      },
+      {
+        "label": "E",
+        "text": "Olecranon, coronoid and radial head fractures without dislocation"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The terrible triad is a posterior elbow dislocation combined with fractures of both the radial head and the coronoid process. The coronoid and radial head are important resisters of posterolateral rotatory and valgus forces, and the lateral collateral ligament complex is typically avulsed, so all three components must be addressed to restore a concentric, stable joint. Failure to reconstruct these structures leads to persistent instability.",
+    "learningPoint": "The terrible triad is elbow dislocation plus radial head and coronoid fractures, and each component needs addressing to restore stability.",
+    "references": [
+      "Rockwood and Green's Fractures in Adults",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "elbow",
+      "trauma",
+      "terrible-triad",
+      "instability"
+    ],
+    "id": "g2609-elbow-03",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Olecranon fracture",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A fit 30-year-old has a displaced, simple transverse fracture of the olecranon with no comminution and a well-preserved articular surface. Which fixation method best neutralises the distracting pull of the triceps by converting it into compression across the fracture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tension band wiring"
+      },
+      {
+        "label": "B",
+        "text": "A single lag screw across the fracture alone"
+      },
+      {
+        "label": "C",
+        "text": "Intramedullary nailing"
+      },
+      {
+        "label": "D",
+        "text": "A bridging plate spanning the fracture without compression"
+      },
+      {
+        "label": "E",
+        "text": "Excision of the proximal fragment with triceps reattachment"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Tension band wiring converts the tensile pull of the triceps into a compressive force across the articular surface during elbow flexion, making it ideal for a simple transverse olecranon fracture. Comminuted or oblique fractures are better managed with a contoured plate, because a tension band would allow collapse. Fragment excision with triceps advancement is reserved for very comminuted fractures in low-demand patients.",
+    "learningPoint": "Tension band wiring suits simple transverse olecranon fractures by turning triceps tension into articular compression; comminution needs a plate.",
+    "references": [
+      "Rockwood and Green's Fractures in Adults",
+      "AO Principles of Fracture Management"
+    ],
+    "tags": [
+      "elbow",
+      "trauma",
+      "olecranon",
+      "tension-band"
+    ],
+    "id": "g2609-elbow-04",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Simple elbow dislocation",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 25-year-old sustains a simple posterolateral dislocation of the elbow with no associated fracture. After prompt closed reduction the elbow is congruent and stable through a functional arc of movement under image intensifier. What management gives the best functional outcome?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Early protected mobilisation after a brief period in a sling"
+      },
+      {
+        "label": "B",
+        "text": "Immobilisation in an above-elbow cast for 6 weeks"
+      },
+      {
+        "label": "C",
+        "text": "Surgical repair of the lateral collateral ligament in all cases"
+      },
+      {
+        "label": "D",
+        "text": "Immediate application of a hinged external fixator"
+      },
+      {
+        "label": "E",
+        "text": "Immobilisation in full extension for 3 weeks"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A simple dislocation that is stable after reduction is best managed with a brief period of support followed by early protected motion, because the main complication of the elbow is stiffness from prolonged immobilisation. Ligament repair or a hinged external fixator is reserved for elbows that remain unstable after reduction. The soft-tissue disruption in these injuries typically progresses from the lateral (collateral) side towards the medial side.",
+    "learningPoint": "A stable, concentrically reduced simple elbow dislocation should be mobilised early, as prolonged immobilisation causes stiffness.",
+    "references": [
+      "Rockwood and Green's Fractures in Adults",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "elbow",
+      "trauma",
+      "dislocation",
+      "rehabilitation"
+    ],
+    "id": "g2609-elbow-05",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Lateral epicondylitis",
+    "difficulty": 2,
+    "competence": 2,
+    "stem": "A 46-year-old office worker has a 4-month history of lateral elbow pain that is worse on gripping. Examination reveals tenderness just distal to the lateral epicondyle and pain on resisted wrist extension. Which structure is primarily affected in this condition?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Origin of extensor carpi radialis brevis"
+      },
+      {
+        "label": "B",
+        "text": "Common flexor origin at the medial epicondyle"
+      },
+      {
+        "label": "C",
+        "text": "The radial collateral ligament"
+      },
+      {
+        "label": "D",
+        "text": "The posterior interosseous nerve within the radial tunnel"
+      },
+      {
+        "label": "E",
+        "text": "The annular ligament"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Lateral epicondylitis ('tennis elbow') is a degenerative tendinosis, classically involving the origin of extensor carpi radialis brevis, characterised by angiofibroblastic change rather than true inflammation. The common flexor origin is affected in medial epicondylitis. Radial tunnel syndrome, from posterior interosseous nerve compression, is an important differential that tends to cause pain more distally over the mobile wad. The condition is largely self-limiting, with eccentric loading as first-line treatment.",
+    "learningPoint": "Lateral epicondylitis is a tendinosis of the ECRB origin, not an inflammatory condition, and is largely self-limiting.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "elbow",
+      "tendinopathy",
+      "lateral-epicondylitis",
+      "ecrb"
+    ],
+    "id": "g2609-elbow-06",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Cubital tunnel / ulnar nerve",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 50-year-old complains of numbness in the little and ring fingers and increasing clumsiness of the hand, with symptoms provoked by sustained elbow flexion. Examination shows weakness of the first dorsal interosseous and a positive Froment's sign. Which is the most common site of nerve compression causing this picture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The cubital tunnel beneath Osborne's ligament"
+      },
+      {
+        "label": "B",
+        "text": "Guyon's canal at the wrist"
+      },
+      {
+        "label": "C",
+        "text": "The arcade of Struthers in the distal arm"
+      },
+      {
+        "label": "D",
+        "text": "Between the two heads of pronator teres"
+      },
+      {
+        "label": "E",
+        "text": "The radial tunnel"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The most common site of ulnar nerve entrapment at the elbow is the cubital tunnel, deep to Osborne's ligament, the aponeurotic band between the two heads of flexor carpi ulnaris. Elbow flexion tightens this structure and reduces the tunnel volume, reproducing symptoms. Guyon's canal compression at the wrist would typically spare the dorsal ulnar cutaneous sensation, and the pronator teres and radial tunnel involve the median and radial nerves respectively.",
+    "learningPoint": "Cubital tunnel syndrome, under Osborne's ligament, is the commonest ulnar nerve compression site, and elbow flexion aggravates it.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Green's Operative Hand Surgery"
+    ],
+    "tags": [
+      "elbow",
+      "nerve",
+      "cubital-tunnel",
+      "ulnar"
+    ],
+    "id": "g2609-elbow-07",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Distal biceps rupture",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 42-year-old labourer feels a painful 'pop' in the antecubital fossa while lifting a heavy load. There is bruising, a palpable defect and a positive hook test. Which movement will show the greatest loss of strength?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Forearm supination"
+      },
+      {
+        "label": "B",
+        "text": "Wrist extension"
+      },
+      {
+        "label": "C",
+        "text": "Elbow extension"
+      },
+      {
+        "label": "D",
+        "text": "Forearm pronation"
+      },
+      {
+        "label": "E",
+        "text": "Shoulder abduction"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The distal biceps is the most powerful supinator of the forearm, so its rupture produces the greatest loss of supination strength and endurance, with a smaller reduction in elbow flexion strength. The hook test cannot engage an intact tendon in the fossa, confirming the diagnosis. Anatomic repair to the radial tuberosity best restores supination strength, which is why active repair is generally favoured over non-operative treatment in manual workers.",
+    "learningPoint": "Distal biceps rupture causes its greatest strength deficit in supination; anatomic repair to the radial tuberosity restores it best.",
+    "references": [
+      "Rockwood and Green's Fractures in Adults",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "elbow",
+      "tendon",
+      "distal-biceps",
+      "supination"
+    ],
+    "id": "g2609-elbow-08",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Stiff elbow — functional arc",
+    "difficulty": 3,
+    "competence": 2,
+    "stem": "A patient is being counselled about realistic goals after treatment of a stiff elbow. According to Morrey's classic description, most activities of daily living can be performed within which functional arc of elbow flexion and extension?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 to 130 degrees of flexion"
+      },
+      {
+        "label": "B",
+        "text": "0 to 90 degrees of flexion"
+      },
+      {
+        "label": "C",
+        "text": "60 to 160 degrees of flexion"
+      },
+      {
+        "label": "D",
+        "text": "0 to 145 degrees of flexion"
+      },
+      {
+        "label": "E",
+        "text": "45 to 90 degrees of flexion"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Morrey described a functional arc of approximately 30 to 130 degrees of flexion (a 100-degree arc), together with about 50 degrees each of pronation and supination, as sufficient for the majority of daily activities. This principle underpins the surgical goal of restoring a functional, stable arc rather than pursuing a full but painful or unstable range. A loss of terminal extension is common and often well tolerated.",
+    "learningPoint": "Morrey's functional arc of 30-130 degrees flexion and 50-50 pronation-supination covers most daily activities.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Rockwood and Green's Fractures in Adults"
+    ],
+    "tags": [
+      "elbow",
+      "biomechanics",
+      "stiff-elbow",
+      "range-of-motion"
+    ],
+    "id": "g2609-elbow-09",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "elbow",
+    "subtopic": "Elbow anatomy & biomechanics",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A throwing athlete is being assessed for medial elbow instability. Which structure is the primary soft-tissue restraint to valgus stress at the elbow?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The anterior bundle of the medial collateral ligament"
+      },
+      {
+        "label": "B",
+        "text": "The radial head"
+      },
+      {
+        "label": "C",
+        "text": "The lateral ulnar collateral ligament"
+      },
+      {
+        "label": "D",
+        "text": "The annular ligament"
+      },
+      {
+        "label": "E",
+        "text": "The posterior bundle of the medial collateral ligament"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The anterior bundle of the medial collateral ligament is the primary stabiliser against valgus force and is the structure typically injured in overhead throwing athletes. The radial head is the most important secondary valgus stabiliser and becomes critical when the medial collateral ligament is deficient, which is why it must be preserved or replaced in complex injuries. The lateral ulnar collateral ligament instead resists varus and posterolateral rotatory instability.",
+    "learningPoint": "The anterior bundle of the MCL is the primary valgus stabiliser of the elbow; the radial head is the key secondary restraint.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Rockwood and Green's Fractures in Adults"
+    ],
+    "tags": [
+      "elbow",
+      "anatomy",
+      "biomechanics",
+      "mcl"
+    ],
+    "id": "g2609-elbow-10",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Adult acetabular dysplasia",
+    "difficulty": 3,
+    "competence": 4,
+    "stem": "A 24-year-old woman with a history of childhood developmental dysplasia has activity-related groin pain. Radiographs show a lateral centre-edge angle of 15 degrees with a well-preserved joint space and no significant arthritis. What is the most appropriate joint-preserving surgical option?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Periacetabular (Ganz) osteotomy"
+      },
+      {
+        "label": "B",
+        "text": "Total hip arthroplasty"
+      },
+      {
+        "label": "C",
+        "text": "Hip arthroscopy with isolated labral debridement"
+      },
+      {
+        "label": "D",
+        "text": "Valgus intertrochanteric femoral osteotomy"
+      },
+      {
+        "label": "E",
+        "text": "Hip arthrodesis"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A symptomatic young adult with acetabular dysplasia (a lateral centre-edge angle below about 20 to 25 degrees) and a preserved joint is best treated with a periacetabular osteotomy, which reorients the acetabulum to improve femoral head coverage and offload the labrum. Isolated arthroscopic labral surgery does not correct the underlying under-coverage and may worsen instability in a dysplastic hip. Total hip arthroplasty and arthrodesis are reserved for established arthritis rather than a preserved joint.",
+    "learningPoint": "Symptomatic acetabular dysplasia with a preserved joint in a young adult is best corrected by periacetabular osteotomy, not arthroscopy alone.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "hip",
+      "dysplasia",
+      "pao",
+      "osteotomy"
+    ],
+    "id": "g2609-hip-01",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Femoroacetabular impingement",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 28-year-old footballer has groin pain and a positive anterior impingement (flexion, adduction and internal rotation) test. Radiographs show an aspherical femoral head-neck junction with an alpha angle of 70 degrees and no acetabular over-coverage. Which type of femoroacetabular impingement does this describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cam-type impingement"
+      },
+      {
+        "label": "B",
+        "text": "Pincer-type impingement"
+      },
+      {
+        "label": "C",
+        "text": "Combined cam and pincer impingement"
+      },
+      {
+        "label": "D",
+        "text": "Posterior extra-articular impingement"
+      },
+      {
+        "label": "E",
+        "text": "Ischiofemoral impingement"
+      }
+    ],
+    "answer": "A",
+    "explanation": "An increased alpha angle caused by an aspherical femoral head-neck junction is the hallmark of cam-type femoroacetabular impingement, where the abnormal bump shears against the acetabular rim and causes chondrolabral delamination. Pincer impingement is due to acetabular over-coverage, such as retroversion (crossover sign) or coxa profunda, which is absent here. Because the abnormality is purely femoral, this is cam rather than combined impingement.",
+    "learningPoint": "A raised alpha angle from an aspherical head-neck junction, with normal acetabular coverage, defines cam-type FAI.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "hip",
+      "fai",
+      "cam",
+      "alpha-angle"
+    ],
+    "id": "g2609-hip-02",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Osteonecrosis of the femoral head",
+    "difficulty": 2,
+    "competence": 2,
+    "stem": "A 38-year-old on long-term corticosteroids reports increasing groin pain. Plain radiographs of the hip are normal, but clinical suspicion of femoral head osteonecrosis is high. What is the most appropriate investigation to confirm the diagnosis at an early, pre-collapse stage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "MRI of the hips"
+      },
+      {
+        "label": "B",
+        "text": "Repeat plain radiographs in 3 months"
+      },
+      {
+        "label": "C",
+        "text": "CT of the pelvis"
+      },
+      {
+        "label": "D",
+        "text": "Bone scintigraphy"
+      },
+      {
+        "label": "E",
+        "text": "Ultrasound of the hip"
+      }
+    ],
+    "answer": "A",
+    "explanation": "MRI is the most sensitive and specific investigation for early osteonecrosis, detecting marrow oedema and the characteristic double-line sign before radiographic changes appear. Early diagnosis at the pre-collapse stage is important because it permits joint-preserving options such as core decompression. CT and bone scintigraphy are less sensitive in the earliest stages, and ultrasound has no role in assessing the femoral head marrow.",
+    "learningPoint": "MRI is the investigation of choice for early, pre-collapse osteonecrosis, when radiographs are still normal.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "hip",
+      "avn",
+      "osteonecrosis",
+      "mri"
+    ],
+    "id": "g2609-hip-03",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "THA approaches",
+    "difficulty": 2,
+    "competence": 2,
+    "stem": "A surgeon performs a total hip replacement through the posterior (Moore / Southern) approach. Which nerve is most at risk of direct injury during this approach?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sciatic nerve"
+      },
+      {
+        "label": "B",
+        "text": "Superior gluteal nerve"
+      },
+      {
+        "label": "C",
+        "text": "Femoral nerve"
+      },
+      {
+        "label": "D",
+        "text": "Lateral femoral cutaneous nerve"
+      },
+      {
+        "label": "E",
+        "text": "Obturator nerve"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The sciatic nerve lies immediately posterior to the hip joint and is the structure most at risk during the posterior approach, particularly with retraction or during exposure of the posterior capsule and short external rotators. The superior gluteal nerve is endangered by the direct lateral (Hardinge) approach, which splits the abductors, and the lateral femoral cutaneous nerve is at risk in the direct anterior approach. The posterior approach also historically carries a higher dislocation rate.",
+    "learningPoint": "The posterior hip approach places the sciatic nerve at greatest risk; the lateral approach threatens the superior gluteal nerve.",
+    "references": [
+      "Hoppenfeld's Surgical Exposures in Orthopaedics",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "hip",
+      "arthroplasty",
+      "approach",
+      "nerve"
+    ],
+    "id": "g2609-hip-04",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Periprosthetic fracture (Vancouver)",
+    "difficulty": 4,
+    "competence": 4,
+    "stem": "An 80-year-old with a previous cemented total hip replacement sustains a periprosthetic femoral fracture around the tip of the stem after a fall. Careful assessment of the radiographs shows the femoral stem is loose but the surrounding bone stock is adequate. Using the Vancouver classification, how is this best classified and managed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vancouver B2 — revision to a long-stemmed femoral component"
+      },
+      {
+        "label": "B",
+        "text": "Vancouver B1 — open reduction and internal fixation, retaining the stem"
+      },
+      {
+        "label": "C",
+        "text": "Vancouver A — non-operative management"
+      },
+      {
+        "label": "D",
+        "text": "Vancouver C — plate fixation well distal to the stem, retaining the stem"
+      },
+      {
+        "label": "E",
+        "text": "Vancouver B3 — proximal femoral replacement only"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A fracture around the stem with a loose implant but adequate bone stock is a Vancouver B2 fracture, treated by revision to a long-stemmed component that bypasses the fracture, usually supplemented by fixation. A B1 fracture, by contrast, has a well-fixed stem and is treated by internal fixation with the stem retained. Misclassifying a loose (B2) stem as a well-fixed (B1) one and simply plating it is a classic error that leads to fixation failure, so stem stability must always be assessed.",
+    "learningPoint": "Vancouver B2 (loose stem, adequate bone) needs stem revision, not plating; always assess stem fixation before deciding.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Rockwood and Green's Fractures in Adults"
+    ],
+    "tags": [
+      "hip",
+      "arthroplasty",
+      "periprosthetic",
+      "vancouver"
+    ],
+    "id": "g2609-hip-05",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Hip fracture — NICE management",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A 78-year-old who mobilises independently outdoors with a single stick and has no cognitive impairment sustains a displaced intracapsular femoral neck fracture. She is medically fit for surgery. According to NICE guidance, what is the most appropriate treatment?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Total hip arthroplasty"
+      },
+      {
+        "label": "B",
+        "text": "Cannulated screw fixation"
+      },
+      {
+        "label": "C",
+        "text": "Cemented hemiarthroplasty"
+      },
+      {
+        "label": "D",
+        "text": "Dynamic hip screw"
+      },
+      {
+        "label": "E",
+        "text": "Non-operative management with early mobilisation"
+      }
+    ],
+    "answer": "A",
+    "explanation": "NICE recommends total hip arthroplasty for a displaced intracapsular fracture in a patient who was able to walk independently outdoors with no more than a stick, is not cognitively impaired, and is medically fit for the procedure. Cemented hemiarthroplasty is appropriate for less mobile or frailer patients who do not meet these criteria. Internal fixation with screws or a dynamic hip screw is inappropriate for a displaced intracapsular fracture in the elderly because of high rates of non-union and avascular necrosis.",
+    "learningPoint": "NICE offers total hip replacement for displaced intracapsular fractures in fit, cognitively intact, independent walkers.",
+    "references": [
+      "NICE CG124 Hip fracture: management",
+      "Miller's Review of Orthopaedics"
+    ],
+    "tags": [
+      "hip",
+      "trauma",
+      "neck-of-femur",
+      "nice"
+    ],
+    "id": "g2609-hip-06",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Dislocation after THA",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A patient has a first-time posterior dislocation of a total hip replacement 6 weeks after surgery performed through a posterior approach. Post-reduction radiographs show acetabular component inclination and anteversion within the Lewinnek safe zone. What is the most appropriate initial management?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Closed reduction followed by a period of hip precautions"
+      },
+      {
+        "label": "B",
+        "text": "Revision of the acetabular component"
+      },
+      {
+        "label": "C",
+        "text": "Conversion to a constrained liner"
+      },
+      {
+        "label": "D",
+        "text": "Conversion to a dual-mobility bearing"
+      },
+      {
+        "label": "E",
+        "text": "Excision (Girdlestone) arthroplasty"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A first-time dislocation with components positioned within the Lewinnek safe zone (inclination 40 plus or minus 10 degrees and anteversion 15 plus or minus 10 degrees) is managed by closed reduction and a period of precautions, as most such hips do not go on to recur. Revision surgery, a constrained liner or a dual-mobility bearing is reserved for recurrent instability or demonstrable component malposition. Girdlestone excision is a salvage procedure and is not appropriate after a single dislocation.",
+    "learningPoint": "A first-time THA dislocation with well-positioned components is treated by closed reduction and precautions, not revision.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "hip",
+      "arthroplasty",
+      "dislocation",
+      "instability"
+    ],
+    "id": "g2609-hip-07",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Osteotomy for femoral neck non-union",
+    "difficulty": 4,
+    "competence": 4,
+    "stem": "A 40-year-old develops a femoral neck non-union with a near-vertical fracture line following previous internal fixation, but the femoral head remains viable on imaging. Which procedure is most appropriate to promote union by converting the shear forces across the fracture into compression?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Valgus intertrochanteric osteotomy"
+      },
+      {
+        "label": "B",
+        "text": "Varus intertrochanteric osteotomy"
+      },
+      {
+        "label": "C",
+        "text": "Total hip arthroplasty"
+      },
+      {
+        "label": "D",
+        "text": "Periacetabular osteotomy"
+      },
+      {
+        "label": "E",
+        "text": "In-situ re-fixation with cannulated screws alone"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A valgus intertrochanteric osteotomy applies the Pauwels principle: it reduces the angle of the fracture line relative to the horizontal, converting the shearing force across a vertical non-union into compression and thereby promoting union while preserving the viable head. A varus osteotomy would increase the shear across the fracture and is used in different scenarios such as some paediatric hip conditions. Total hip arthroplasty is reserved for a non-viable head or established arthritis, and simple re-fixation alone does not correct the unfavourable mechanical environment.",
+    "learningPoint": "A valgus (Pauwels) osteotomy converts shear into compression across a vertical femoral neck non-union with a viable head.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Rockwood and Green's Fractures in Adults"
+    ],
+    "tags": [
+      "hip",
+      "osteotomy",
+      "non-union",
+      "pauwels"
+    ],
+    "id": "g2609-hip-08",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Hip anatomy & blood supply",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "During a discussion about the risk of avascular necrosis following a displaced intracapsular femoral neck fracture, a trainee is asked about the blood supply of the femoral head. In the adult, which artery provides the dominant blood supply to the femoral head?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deep (ascending) branch of the medial femoral circumflex artery"
+      },
+      {
+        "label": "B",
+        "text": "Lateral femoral circumflex artery"
+      },
+      {
+        "label": "C",
+        "text": "Artery of the ligamentum teres"
+      },
+      {
+        "label": "D",
+        "text": "Inferior gluteal artery"
+      },
+      {
+        "label": "E",
+        "text": "Obturator artery"
+      }
+    ],
+    "answer": "A",
+    "explanation": "In the adult, the deep (ascending) branch of the medial femoral circumflex artery supplies the majority of the femoral head via the posterosuperior retinacular (lateral epiphyseal) vessels. The lateral femoral circumflex artery makes a smaller contribution, and the artery of the ligamentum teres provides only a minor supply in adults. This anatomy explains why a displaced intracapsular fracture, which tears the retinacular vessels, carries a high risk of osteonecrosis.",
+    "learningPoint": "The deep branch of the medial femoral circumflex artery is the dominant supply to the adult femoral head via the retinacular vessels.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "hip",
+      "anatomy",
+      "blood-supply",
+      "mfca"
+    ],
+    "id": "g2609-hip-09",
+    "verified": false
+  },
+  {
+    "type": "sba",
+    "module": "hip",
+    "subtopic": "Revision — loosening vs infection",
+    "difficulty": 3,
+    "competence": 3,
+    "stem": "A patient presents with progressive thigh pain 9 years after a cemented total hip replacement. Radiographs show a new, progressive 3 mm radiolucent line around the entire femoral cement mantle with subsidence of the stem. Before attributing these appearances to aseptic loosening, what must be excluded first?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Periprosthetic joint infection"
+      },
+      {
+        "label": "B",
+        "text": "Metastatic bone disease"
+      },
+      {
+        "label": "C",
+        "text": "Referred pain from lumbar spinal stenosis"
+      },
+      {
+        "label": "D",
+        "text": "Trochanteric bursitis"
+      },
+      {
+        "label": "E",
+        "text": "Heterotopic ossification"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Periprosthetic joint infection must be excluded before a diagnosis of aseptic loosening is made, because low-grade or indolent infection can present identically with pain and progressive loosening. This requires inflammatory markers (CRP and ESR) and image-guided joint aspiration for synovial white cell count and culture. Managing an infected implant as if it were simple aseptic loosening leads to a failed revision, whereas aseptic loosening itself is typically driven by polyethylene wear-particle osteolysis.",
+    "learningPoint": "Always exclude periprosthetic joint infection before diagnosing aseptic loosening, as low-grade infection mimics it exactly.",
+    "references": [
+      "Miller's Review of Orthopaedics",
+      "Apley's System of Orthopaedics and Fractures"
+    ],
+    "tags": [
+      "hip",
+      "arthroplasty",
+      "loosening",
+      "infection"
+    ],
+    "id": "g2609-hip-10",
+    "verified": false
   }
 ]
